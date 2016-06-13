@@ -1,0 +1,662 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:17:1-401:12
+	package
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:18:2-26
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:21:2-29
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:20:2-27
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:17:11-69
+	android:installLocation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:19:2-32
+uses-sdk
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:22:2-40
+	android:targetSdkVersion
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:22:12-37
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:23:2-64
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:23:19-61
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:24:2-72
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:24:19-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:25:2-68
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:25:19-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:26:2-77
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:26:19-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:27:2-73
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:27:19-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:28:2-76
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:28:19-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:29:2-65
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:29:19-62
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:30:2-72
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:30:19-69
+uses-permission#android.permission.VIBRATE
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:31:2-63
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:31:19-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:32:2-78
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:32:19-75
+uses-permission#android.permission.CAMERA
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:33:2-62
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:33:19-59
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:34:2-65
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:34:19-62
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:35:2-72
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:35:19-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:36:2-69
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:36:19-66
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:44:2-66
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:44:19-63
+application
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:45:2-400:16
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:48:3-35
+	android:icon
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:47:3-38
+	android:theme
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:49:3-39
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:46:3-33
+meta-data#LOGGING
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:50:3-52:27
+	android:value
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:52:4-24
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:51:4-26
+activity#com.voice.demo.voip.CallOutActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:53:3-63:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:57:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:55:4-36
+	android:launchMode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:56:4-35
+	android:theme
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:58:4-62
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:54:4-40
+intent-filter#android.intent.category.DEFAULT+com.voice.demo.ACTION_VOIP_OUTCALL
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:59:4-62:20
+action#com.voice.demo.ACTION_VOIP_OUTCALL
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:60:5-65
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:60:13-62
+category#android.intent.category.DEFAULT
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:61:5-64
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:61:15-61
+activity#com.voice.demo.voip.CallInActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:64:3-78:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:68:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:66:4-36
+	android:launchMode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:67:4-35
+	android:theme
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:69:4-62
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:65:4-39
+intent-filter#android.intent.category.DEFAULT+com.voice.demo.ACTION_VOIP_INCALL
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:70:4-73:20
+action#com.voice.demo.ACTION_VOIP_INCALL
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:71:5-64
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:71:13-61
+intent-filter#android.intent.category.DEFAULT+com.voice.demo.ACTION_VIDEO_INTCALL
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:74:4-77:20
+action#com.voice.demo.ACTION_VIDEO_INTCALL
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:75:5-66
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:75:13-63
+activity#com.voice.demo.ui.LauncherUI
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:79:3-90:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:83:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:81:4-41
+	android:launchMode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:82:4-34
+	android:windowSoftInputMode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:84:4-51
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:80:4-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:85:4-89:20
+action#android.intent.action.MAIN
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:86:5-57
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:86:13-54
+category#android.intent.category.LAUNCHER
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:87:5-65
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:87:15-62
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:88:5-77
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:88:15-74
+activity#com.voice.demo.voip.NetPhoneCallActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:91:3-95:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:94:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:93:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:92:4-45
+activity#com.voice.demo.voip.LandingCallActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:96:3-100:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:99:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:98:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:97:4-44
+activity#com.voice.demo.voip.VoIPCallActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:101:3-105:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:104:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:103:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:102:4-41
+activity#com.voice.demo.ui.CapabilityChoiceActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:107:3-112:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:111:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:109:4-36
+	android:launchMode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:110:4-35
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:108:4-47
+activity#com.voice.demo.interphone.InterPhoneRoomActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:114:3-118:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:117:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:116:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:115:4-53
+activity#com.voice.demo.interphone.InterPhoneActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:119:3-123:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:122:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:121:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:120:4-49
+activity#com.voice.demo.interphone.InviteInterPhoneActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:124:3-128:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:127:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:126:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:125:4-55
+activity#com.voice.demo.video.VideoActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:130:3-140:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:134:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:132:4-36
+	android:launchMode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:133:4-35
+	android:theme
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:135:4-62
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:131:4-39
+intent-filter#android.intent.category.DEFAULT+com.voice.demo.ACTION_VIDEO_OUTCALL
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:136:4-139:20
+action#com.voice.demo.ACTION_VIDEO_OUTCALL
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:137:5-66
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:137:13-63
+activity#com.voice.demo.outboundmarketing.MarketActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:142:3-146:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:145:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:144:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:143:4-52
+activity#com.voice.demo.outboundmarketing.MarketStateActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:147:3-151:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:150:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:149:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:148:4-57
+activity#com.voice.demo.voicecode.VoiceVerificationCodeActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:153:3-157:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:156:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:155:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:154:4-59
+activity#com.voice.demo.voicecode.ValidationStatusActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:158:3-162:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:161:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:160:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:159:4-54
+activity#com.voice.demo.chatroom.ChatroomName
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:164:3-168:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:167:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:166:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:165:4-41
+activity#com.voice.demo.chatroom.ChatroomActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:169:3-173:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:172:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:171:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:170:4-45
+activity#com.voice.demo.chatroom.ChatroomConversation
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:174:3-178:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:177:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:176:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:175:4-49
+activity#com.voice.demo.chatroom.ChatroomMemberManagerActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:179:3-183:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:182:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:181:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:180:4-58
+activity#com.voice.demo.contacts.ContactListActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:185:3-189:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:188:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:187:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:186:4-48
+activity#com.voice.demo.contacts.ChooseContactsActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:190:3-194:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:193:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:192:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:191:4-51
+activity#com.voice.demo.group.VideoRecordActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:196:3-201:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:200:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:198:4-36
+	android:launchMode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:199:4-34
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:197:4-45
+activity#com.voice.demo.group.CreateGroupActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:202:3-206:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:205:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:204:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:203:4-45
+activity#com.voice.demo.group.GroupMessageListActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:207:3-211:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:210:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:209:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:208:4-50
+activity#com.voice.demo.group.GroupListActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:212:3-216:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:215:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:214:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:213:4-43
+activity#com.voice.demo.group.GroupDetailActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:217:3-221:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:220:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:219:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:218:4-45
+activity#com.voice.demo.group.FileBrowserActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:222:3-228:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:225:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:224:4-36
+	android:windowSoftInputMode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:227:4-45
+	android:theme
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:226:4-37
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:223:4-45
+activity#com.voice.demo.group.GroupChatActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:229:3-234:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:232:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:231:4-36
+	android:windowSoftInputMode
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:233:4-58
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:230:4-43
+activity#com.voice.demo.group.SystemMsgActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:235:3-239:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:238:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:237:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:236:4-43
+activity#com.voice.demo.group.GroupEditActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:240:3-244:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:243:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:242:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:241:4-43
+activity#com.voice.demo.group.GroupMemberCardActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:245:3-249:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:248:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:247:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:246:4-49
+activity#com.voice.demo.setting.SettingAboutActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:251:3-255:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:254:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:253:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:252:4-48
+activity#com.voice.demo.setting.SupportCodecActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:256:3-259:43
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:259:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:258:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:257:4-48
+activity#com.voice.demo.setting.VideoCallResolutionSettings
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:260:3-263:43
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:263:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:262:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:261:4-55
+activity#com.voice.demo.setting.SettingsActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:264:3-268:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:267:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:266:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:265:4-44
+activity#com.voice.demo.setting.AutoManageSettingActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:269:3-273:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:272:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:271:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:270:4-53
+activity#com.voice.demo.netmonitor.NetworkMonitoringActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:274:3-278:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:277:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:276:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:275:4-56
+activity#com.voice.demo.videoconference.VideoConference
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:279:3-283:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:282:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:281:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:280:4-51
+activity#com.voice.demo.videoconference.WizardVideoconferenceActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:284:3-288:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:287:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:286:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:285:4-65
+activity#com.voice.demo.videoconference.VideoconferenceConversation
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:289:3-293:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:292:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:291:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:290:4-63
+activity#com.voice.demo.videoconference.CreateVideoConference
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:294:3-298:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:297:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:296:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:295:4-57
+activity#com.voice.demo.videoconference.VideoConferenceChattingUI
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:299:3-303:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:302:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:301:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:300:4-61
+activity#com.voice.demo.videoconference.MultiVideoconference
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:304:3-308:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:307:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:306:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:305:4-56
+activity#com.voice.demo.ui.experience.AccountChooseActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:309:3-313:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:312:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:311:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:310:4-55
+activity#com.voice.demo.ui.developer.DeveloperLoginActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:314:3-318:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:317:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:316:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:315:4-55
+activity#com.voice.demo.ExConsultation.ExpertMainActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:319:3-327:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:322:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:321:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:320:4-53
+intent-filter#android.intent.category.DEFAULT+com.voice.ACTION_EXPERT_MAIN
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:323:4-326:20
+action#com.voice.ACTION_EXPERT_MAIN
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:324:5-59
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:324:13-56
+activity#com.voice.demo.ExConsultation.ExpertActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:328:3-336:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:331:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:330:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:329:4-49
+intent-filter#android.intent.category.DEFAULT+com.voice.demo.ACTION_EXPERT_LIST_VIEW
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:332:4-335:20
+action#com.voice.demo.ACTION_EXPERT_LIST_VIEW
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:333:5-69
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:333:13-66
+activity#com.voice.demo.ExConsultation.ExpertOrderActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:337:3-345:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:340:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:339:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:338:4-54
+intent-filter#android.intent.category.DEFAULT+com.voice.demo.ACTION_EXPERT_ORDER
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:341:4-344:20
+action#com.voice.demo.ACTION_EXPERT_ORDER
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:342:5-65
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:342:13-62
+activity#com.voice.demo.ExConsultation.ExpertConmuiActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:346:3-355:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:349:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:348:4-36
+	android:theme
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:350:4-45
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:347:4-55
+intent-filter#android.intent.category.DEFAULT+com.voice.demo.ACTION_EXPERT_CONMUI
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:351:4-354:20
+action#com.voice.demo.ACTION_EXPERT_CONMUI
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:352:5-66
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:352:13-63
+activity#com.voice.demo.ExConsultation.ExpertDetailActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:356:3-364:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:359:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:358:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:357:4-55
+intent-filter#android.intent.category.DEFAULT+com.voice.demo.ACTION_EXPERT_DETAIL_VIEW
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:360:4-363:20
+action#com.voice.demo.ACTION_EXPERT_DETAIL_VIEW
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:361:5-71
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:361:13-68
+activity#com.voice.demo.ui.experience.ExperienceLogin
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:366:3-370:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:369:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:368:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:367:4-49
+activity#com.voice.demo.ui.experience.ExperienceForgetPwd
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:371:3-375:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:374:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:373:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:372:4-53
+activity#com.voice.demo.ui.experience.ExperienceAccountInfoActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:376:3-380:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:379:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:378:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:377:4-63
+activity#com.voice.demo.ui.experience.BuildingNumberActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:381:3-385:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:384:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:383:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:382:4-56
+activity#com.voice.demo.ui.experience.TestNumberActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:386:3-390:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:389:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:388:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:387:4-52
+activity#com.voice.demo.voip.GetNumberToTransferActivity
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:391:3-395:14
+	android:screenOrientation
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:394:4-40
+	android:label
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:393:4-36
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:392:4-52
+service#com.hisun.phone.core.voice.CCPService
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:396:3-398:31
+	android:exported
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:398:4-28
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:397:4-56
+service#com.voice.demo.contacts.T9Service
+ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:399:3-63
+	android:name
+		ADDED from F:\Projects\CCP_PHONE_DEMO_Android33\app\src\main\AndroidManifest.xml:399:12-60

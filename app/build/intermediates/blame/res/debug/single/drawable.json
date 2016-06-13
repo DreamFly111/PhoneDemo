@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_box_brackground.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\message_box_brackground.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_developer_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_developer_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xh_button_call_select.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\xh_button_call_select.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_button_style_one.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_button_style_one.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_rec_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\voice_rec_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verify_show_end_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\verify_show_end_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_capacity_09_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_capacity_09_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_capacity_04_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_capacity_04_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_trans.9.png",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_trans.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_talk_send_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\im_talk_send_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_left_03_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_left_03_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_input_box.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_input_box.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_videorecord_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\im_videorecord_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_button_help_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\top_button_help_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_title_back.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\voice_title_back.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group_card_bottom_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\group_card_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_login_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\voice_login_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_right_01_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_right_01_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_button_help_pressed.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\top_button_help_pressed.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xh_layer_detail_hold_call_select.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\xh_layer_detail_hold_call_select.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_unkonw_icon.png",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\file_unkonw_icon.png"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_button_reject.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\call_button_reject.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_member_interphone_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\select_member_interphone_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group_chat_bg_select.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\group_chat_bg_select.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_enable_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_enable_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_login_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\switch_login_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_button.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\select_button.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gird_view_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\gird_view_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_back_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_back_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_action_add.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_action_add.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_check.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\cb_check.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_button_back_pressed.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\top_button_back_pressed.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_capacity_07_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_capacity_07_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_button_begin.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_button_begin.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_icon_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\emoji_icon_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mute_forbid_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\mute_forbid_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_checkbox.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xh_rating_bar_layer.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\xh_rating_bar_layer.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\netphone_landing_call_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\netphone_landing_call_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_switch_font_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\camera_switch_font_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_middle_03_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_middle_03_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_forbid_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_forbid_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_capacity_06_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_capacity_06_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_item_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\emoji_item_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\netphone_direct_call_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\netphone_direct_call_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_btn.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\checkbox_btn.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group_card_middle_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\group_card_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_notify.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_notify.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_dialog_cancel.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_dialog_cancel.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\netphone_voip_call_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\netphone_voip_call_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\netphone_call_back_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\netphone_call_back_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verify_get_again_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\verify_get_again_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_dialog_special.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_dialog_special.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_back_btn_pressed.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_back_btn_pressed.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_listview_back.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\pop_listview_back.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_middle_02_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_middle_02_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_style_alert_dialog_button.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_style_alert_dialog_button.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_black.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\background_black.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_list_item_conference.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_list_item_conference.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_button_accept.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\call_button_accept.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_video_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\im_video_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_regist_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\switch_regist_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_video_o2m.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_video_o2m.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_right.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\title_btn_right.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_btn_radio.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\checkbox_btn_radio.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_button_default_bg_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\header_button_default_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_capacity_05_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_capacity_05_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_button_back_normal.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\top_button_back_normal.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_switch_back_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\camera_switch_back_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_browser_uplevel.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\file_browser_uplevel.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_button_back.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\top_button_back.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xh_layer_detail_hold_order_select.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\xh_layer_detail_hold_order_select.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_middle_01_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_middle_01_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_bg_checked.png",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\cb_bg_checked.png"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_interface_bg_02.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\call_interface_bg_02.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_button_help_normal.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\top_button_help_normal.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_code_send_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\voice_code_send_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_middle_04_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_middle_04_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_button_stop.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_button_stop.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_talk_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\im_talk_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_capacity_08_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_capacity_08_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xh_title_button_bg.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\xh_title_button_bg.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_interface_bg_01.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\call_interface_bg_01.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_outbox_recd_selectot.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\voice_outbox_recd_selectot.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_file_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\im_file_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_red_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_red_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_interface_bg_04.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\call_interface_bg_04.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_left_02_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_left_02_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_capacity_03_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_capacity_03_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_del_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\emoji_del_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_inbox_recd_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\voice_inbox_recd_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_blue_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_blue_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_group_card_detail_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\icon_group_card_detail_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_accountinfo_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\action_accountinfo_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\system_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xh_dialog_activity.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\xh_dialog_activity.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialup_keyboard_left_button_0.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\dialup_keyboard_left_button_0.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\status_level.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\status_level.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_button_select.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\header_button_select.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sid_switch_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\sid_switch_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_start_inter_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\voice_start_inter_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_right_02_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_right_02_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_capacity_02_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_capacity_02_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_right_04_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_right_04_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_experience_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_experience_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mute_enable_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\mute_enable_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_voice_button_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\im_voice_button_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_button_cancle.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_button_cancle.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_item_goto.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\video_item_goto.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_bg_unchecked.png",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\cb_bg_unchecked.png"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_list_item_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\voice_list_item_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\un_selected.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\un_selected.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_left_04_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_left_04_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ccp_capacity_01_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\ccp_capacity_01_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xh_button_free_call.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\xh_button_free_call.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\selected.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_red.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\button_red.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_right_03_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\keyboard_right_03_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group_card_header_selector.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\group_card_header_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fillet_box.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\fillet_box.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_color.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\drawable\\textview_color.xml"
+    }
+]

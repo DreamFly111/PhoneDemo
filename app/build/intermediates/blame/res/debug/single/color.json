@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\ccp_style_two_btn_text.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\ccp_style_two_btn_text.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\ccp_style_one_btn_text.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\ccp_style_one_btn_text.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\system_msg_result_color.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\system_msg_result_color.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\group_name_color.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\group_name_color.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\voice_conv_textcolor.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\voice_conv_textcolor.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\ccp_button_text.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\ccp_button_text.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\ccp_title_btn_text.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\ccp_title_btn_text.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\system_msg_nikename_color.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\system_msg_nikename_color.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\sub_text_dial.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\sub_text_dial.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\voice_pref_title.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\voice_pref_title.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\system_msg_gray.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\system_msg_gray.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\group_notice_color.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\group_notice_color.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\voice_conv_textcolor_time.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\voice_conv_textcolor_time.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\default_text.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\default_text.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\voice_pref_value.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\voice_pref_value.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\voice_conv_time_textcolor.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\voice_conv_time_textcolor.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\color\\im_chat_expend_textcolor.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\color\\im_chat_expend_textcolor.xml"
+    }
+]

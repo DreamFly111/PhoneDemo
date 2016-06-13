@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\video_push_up_in.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\video_push_up_in.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ccp_faded_in.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\ccp_faded_in.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_slide_left_out.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\activity_slide_left_out.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_in.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_down_out.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\switch_down_out.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_empty_out.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\push_empty_out.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_slide_right_in.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\activity_slide_right_in.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_slide_left_in.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\activity_slide_left_in.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ccp_faded_out.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\ccp_faded_out.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ccp_push_up_in.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\ccp_push_up_in.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_out.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\video_push_down_out.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\video_push_down_out.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ccp_switch_down_out.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\ccp_switch_down_out.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\voice_play_to.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\voice_play_to.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\voice_play_from.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\voice_play_from.xml"
+    },
+    {
+        "merged": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_slide_right_out.xml",
+        "source": "F:\\Projects\\CCP_PHONE_DEMO_Android33\\app\\src\\main\\res\\anim\\activity_slide_right_out.xml"
+    }
+]
